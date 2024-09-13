@@ -18,7 +18,7 @@ Scripts are sequentially numbered (e.g. 001_preprocessing.py) to indicate the re
 
 **Usage:**  
 ```bash
-001_preprocessing.py [options] [command] [args]
+001_preprocessing.py [options] [command] [args]```
 
 This script offers several commands to manipulate and process datasets. It supports the following tasks:
 
