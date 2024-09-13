@@ -13,7 +13,7 @@ Scripts are sequentially numbered (e.g. 001_preprocessing.py) to indicate the re
 
 # **Applications** 
 
--1. 001_preprocessing.py
+- 1. 001_preprocessing.py
 
 usage :
 
