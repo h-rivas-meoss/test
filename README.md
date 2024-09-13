@@ -63,7 +63,7 @@ Example :
 
 `python 001_preprocessing.py get_ids_extremes -table_a /path/to/table_NDVI -max_value 1.0 -id_ ID_OSSS -file_type shp`
 
-This create a list of parcel IDs (to_deleted_extremes.txt) that have at least one date with an NDVI value greater than 1.0. The IDs coming from all tables (NDVI, EVI...) are written in a common file. Evaluated tables are only those with optical data. 
+This create a list of parcel IDs (`to_deleted_extremes.txt`) that have at least one date with an NDVI value greater than 1.0. The IDs coming from all tables (NDVI, EVI...) are written in a common file. Evaluated tables are only those with optical data. 
 
 - filter_ids_extremes :
 
