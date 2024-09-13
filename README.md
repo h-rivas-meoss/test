@@ -41,7 +41,7 @@ Filters tables (VV, VH, NDVI, EVI...) based on a list of IDs.
 
 Example :
 
-`python 001_preprocessing.py filter_ids -input_dir /path/to/tables -id_ ID_OSS -list_id /path/to/`to_deleted.txt` -file_type shp -sensor s2`
+`python 001_preprocessing.py filter_ids -input_dir /path/to/tables -id_ ID_OSS -list_id /path/to/to_deleted.txt -file_type shp -sensor s2`
 
 This deletes the parcels present in `to_deleted.txt` from a table. All tables in the folder are automatically filtered.
 
@@ -149,8 +149,3 @@ This creates a graph from temperature and precipitation variables. Records from 
 
 - Use the -h option with any command to get additional help.
 - Ensure the proper execution order based on the numbering of scripts.
-
-
-
-
-
