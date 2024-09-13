@@ -1,2 +1,2 @@
-# ceci est un test
+# \bold{ceci est un test}
 # J'ajoute cela
