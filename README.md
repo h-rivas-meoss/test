@@ -2,7 +2,7 @@
 
 of the applications features available in this folder. 
 These applications are used to pre-process data sets generated 
-in the CATALUNYA project. 
+in the *CATALUNYA* project. 
 Scripts are embedded with built-in comments to track application 
 implementation.
 In addition, scripts launched in CLI are provided with the "-h" 
