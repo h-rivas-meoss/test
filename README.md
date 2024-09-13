@@ -1,6 +1,6 @@
 # Overview
 
-This folder contains a suite of applications designed to pre-process datasets generated for the **_CATALUNYA_** project. The scripts are embedded with built-in comments to track implementations. Additionally, each script can be executed via the command line with a -h option to display available commands and arguments. 
+This folder contains a suite of applications designed to pre-process datasets generated for the **CATALUNYA** project. The scripts are embedded with built-in comments to track implementations. Additionally, each script can be executed via the command line with a -h option to display available commands and arguments. 
 
 Scripts are sequentially numbered (e.g. 001_preprocessing.py) to indicate the recommended order in which they should be run.
 
