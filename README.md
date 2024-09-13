@@ -33,7 +33,7 @@ Example :
 
 Output: 
 
-Two lists (to_selected.txt, to_deleted.txt) generated in the folder containing the input tables.
+Two lists (to_selected.txt, `to_deleted.txt`) generated in the folder containing the input tables.
 
 - filter_ids :
 
@@ -41,9 +41,9 @@ Filters tables (VV, VH, NDVI, EVI...) based on a list of IDs.
 
 Example :
 
-`python 001_preprocessing.py filter_ids -input_dir /path/to/tables -id_ ID_OSS -list_id /path/to/to_deleted.txt -file_type shp -sensor s2`
+`python 001_preprocessing.py filter_ids -input_dir /path/to/tables -id_ ID_OSS -list_id /path/to/`to_deleted.txt` -file_type shp -sensor s2`
 
-This deletes the parcels present in to_deleted.txt from a table. All tables in the folder are automatically filtered.
+This deletes the parcels present in `to_deleted.txt` from a table. All tables in the folder are automatically filtered.
 
 - merge_tables :
 
