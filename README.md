@@ -73,7 +73,7 @@ Example :
 
 `python 001_preprocessing.py filter_ids_extremes -input_dir /path/to/tables -id_ ID_OSSS -list_id /path/to/to_deleted_extremes.txt -file_type shp -sensor s2`
 
-This deletes the parcels present in to_deleted_extremes.txt from a table. All tables in the folder are automatically filtered.
+This deletes the parcels present in `to_deleted_extremes.txt` from a table. All tables in the folder are automatically filtered.
 
 ### 2. 002_stats.py
 
