@@ -33,7 +33,7 @@ Example :
 
 Output: 
 
-Two lists (to_selected.txt, `to_deleted.txt`) generated in the folder containing the input tables.
+Two lists (`to_selected.txt`, `to_deleted.txt`) generated in the folder containing the input tables.
 
 - filter_ids :
 
