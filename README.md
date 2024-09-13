@@ -23,7 +23,7 @@ This script offers several commands to manipulate and process datasets. It suppo
 
 #### Commands
 
-##### - get_ids : 
+- get_ids : 
 
 Retrieves a list of parcel IDs to be selected or deleted based on the presence of valid data in two tables (T060000 and T170000).
 
